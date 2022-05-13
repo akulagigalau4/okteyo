@@ -12,4 +12,4 @@ RUN cd /usr/share/figlet;wget https://raw.githubusercontent.com/rooted-cyber/upl
 RUN chmod 777 /maruf
 
 #FROM theteamultroid/ultroid:main
-RUN sh -c "$(curl -fsSl https://github.com/rootedcyber4/okteto2/raw/main/reqv.sh)"
+RUN sh -c "$(curl -fsSl https://raw.githubusercontent.com/rootedcyber4/okteto2/main/reqv.sh)"
