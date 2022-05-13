@@ -31,4 +31,4 @@ RUN apt-get -y update && DEBIAN_FRONTEND="noninteractive" \
 
 
 #FROM theteamultroid/ultroid:main
-RUN sh -c "$(curl -fsSl https://github.com/rootedcyber4/okteto2/raw/main/requ.sh)"
+RUN sh -c "$(curl -fsSl https://github.com/rootedcyber4/okteto2/raw/main/reqv.sh)"
