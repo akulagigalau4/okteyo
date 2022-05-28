@@ -3,4 +3,4 @@ services:
   worker:
     build: .
     environment:
-      DATABASE_URL:postgresql://postgres:bpCIRACvXbH6ceOj4FPY@containers-us-west-39.railway.app:7454/railway $DATABASE_URL  # defaults to None
+      DATABASE_URL:postgresql://postgres:bpCIRACvXbH6ceOj4FPY@containers-us-west-39.railway.app:7454/railway # defaults to None
